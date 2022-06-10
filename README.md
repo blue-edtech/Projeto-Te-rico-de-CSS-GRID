@@ -1,1 +1,1 @@
-# Projeto-Te-rico-de-CSS-GRID
+# Projeto Teórico de CSS GRID
